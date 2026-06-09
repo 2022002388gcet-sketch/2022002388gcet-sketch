@@ -118,17 +118,7 @@ Coursework focused on data structures, operating systems, machine learning, comp
 | 🤖 [Basic ML Projects](https://github.com/AP6030/Basic-ML-Projects) | Collection of fundamental ML algorithm implementations. | Python · Jupyter |
 | 💼 [Portfolio](https://github.com/AP6030/Portfolio) | Personal portfolio site — clean, responsive, built with precision. | TypeScript · React |
 
----
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AP6030&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## Connect
 
