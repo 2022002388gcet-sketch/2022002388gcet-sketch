@@ -4,7 +4,7 @@
 
 # Aryan Patel
 
-**22 • Engineer • India** &nbsp;·&nbsp;
+**22 • Engineer • India**
 
 <a href="https://aryanpatelportfolio.vercel.app/">Portfolio</a> ·
 <a href="https://github.com/AP6030">GitHub</a> ·
