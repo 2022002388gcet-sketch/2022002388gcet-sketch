@@ -4,7 +4,7 @@
 
 # Aryan Patel
 
-**22 • Engineer • India** &nbsp;·&nbsp; Status: `Resting`
+**22 • Engineer • India** &nbsp;·&nbsp;
 
 <a href="https://aryanpatelportfolio.vercel.app/">Portfolio</a> ·
 <a href="https://github.com/AP6030">GitHub</a> ·
